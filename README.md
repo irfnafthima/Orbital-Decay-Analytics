@@ -190,3 +190,9 @@ Potential future improvements include:
 - Interactive dashboard development.
 
 ---
+
+### Conclusion
+
+Through data preprocessing, aggregation, and visualization, this project explored the evolving landscape of global space operations. The findings reveal increasing launch activity, concentration of launches among a limited number of countries and facilities, and the growing presence of orbital debris. The project demonstrates the practical application of Python-based data analytics workflows on large-scale scientific datasets.
+
+---
